@@ -3,6 +3,15 @@
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans');
 @import url('https://rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/bmt-animations.css');
 
+:root {
+--BMT-name: "";
+--BMT-text: "";
+--BMT-version: "";
+--BMT-author: "";
+--BMT-load1: "";
+--BMT-load2: "";
+--BMT-load3: "";
+}
 
 /*--Plugin Suport--*/
 /* Citador */
